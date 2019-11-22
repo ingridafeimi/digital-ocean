@@ -1,0 +1,129 @@
+header {
+    background-color: white;
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    color: black;
+    z-index: 100;
+
+}
+
+.logo {
+    color: black;  
+}
+
+.button {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.menu li a:hover {
+    color: dodgerblue!important;
+}
+
+#intro {
+    background-image: url("../images/background.jpg");
+    color: white;
+}
+
+.intro-title {
+    padding: 90px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 55px;
+}
+
+.intro-untitle {
+    font-size: 23px;
+    color: #cceefb;
+}
+
+.forms {
+    background-color: white;
+    color: black;
+}   
+
+.btn-create {
+    font-weight: 700;
+}
+
+
+.btn-social {
+    font-weight: 600;
+    border: 1px solid #e3dddd;
+    padding: 9px 0;
+
+}
+
+.forms {
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.p-end2 {
+    font-size: 12px;
+    color: gray;
+}
+
+.p-end1 {
+    font-size: 15px;
+    color: gray;
+}
+
+.te-dhena {
+    font-size: 14px;
+    padding: 20px;
+}
+
+.title {
+    font-weight: 700;
+    color: #031b4e;
+}
+
+.h3-p {
+    font-size: 19px;
+    font-weight: 400;
+    color: rgba(3,27,78,.7);
+}
+
+h3 {
+    font-weight: 700;
+    color: #031b4e;
+    font-size: 33px;
+}
+
+.list-item {
+    border-left: 2px solid #e5e8ed;
+    font-weight: 500;
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
+
+.lista {
+    padding-left: 100px;
+}
+
+.lista li a {
+    color: rgba(3,27,78,.5);
+    text-decoration: none;
+}
+
+.lista .active a {
+    color: black;
+}
+
+.lista .active {
+    border-left: 2px solid #0069ff;
+}
+
+h4 {
+    font-size: 17px;
+}
+
+.second-description {
+    font-size: 14px;
+    color: rgba(3,27,78,.7);
+}
