@@ -127,3 +127,52 @@ h4 {
     font-size: 14px;
     color: rgba(3,27,78,.7);
 }
+
+.photo2r {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.photo2 {
+    color: #031b4e;
+    font-weight: 500;
+}
+
+.third-description {
+    color: rgba(3,27,78,.7);
+
+}
+
+.third-titile {
+font-weight: 700;
+}
+
+
+.third {
+background-color: #f3f5f9;
+}
+
+.fourth {
+background-image: url(../images/background2.jpg)
+}
+
+.fourth h3 {
+    color: white;
+}
+
+.fourth .btn {
+    color: blue;
+    font-weight: 700;
+    
+}
+
+footer {
+    background-color: #010e28;
+    color: hsla(0,0%,100%,.5);
+    font-size: 13px;
+
+
+}
